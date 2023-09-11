@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694445761 source:c:\csc134\m2t1\csc134\m2t2\m2t2_mapp\main.cpp
+	<iostream>
+	<iomanip>
+
